@@ -1,0 +1,84 @@
+Getting started in R (for this repo)
+=================================================
+
+0) Open the project
+-------------------
+- In RStudio: **File → Open Project…** and choose `resilience-rare-hydrologic-events-management-innovation-summit-2025__15.Rproj`.  
+  Using the `.Rproj` locks paths to the repo root so `here::here()` works reliably.
+
+1) Install / load packages
+--------------------------
+```r
+install.packages(c("sf","here","tidyverse"))
+library(sf)
+library(here)
+library(tidyverse)
+```
+
+2) Repo layout (R-relevant)
+---------------------------
+- `data/study_area/` → small inputs you can version (e.g., KMZ/KML); large data should live in CyVerse.
+- `code/` → your analysis scripts / notebooks.  
+- `docs/` → powers the public site; add R how-tos here.
+
+3) Read provided geospatial data
+--------------------------------
+KMZ/KML are already in `data/study_area/`. Read with `sf`:
+```r
+hucs    <- st_read(here("data","study_area","project_hucs.kmz"))
+outline <- st_read(here("data","study_area","rough_project_outline.kml"))
+```
+
+4) (Recommended) Convert to a GeoPackage once
+---------------------------------------------
+Keep layers in one file for teamwork.
+```r
+gpkg <- here("data","study_area","project_data.gpkg")
+
+# write first layer (create or overwrite the container)
+st_write(hucs, gpkg, layer = "project_hucs",
+         delete_dsn = file.exists(gpkg))
+
+# append more layers
+st_write(outline, gpkg, layer = "project_outline", append = TRUE)
+
+# verify layers
+st_layers(gpkg)
+```
+
+5) CRS hygiene (example)
+------------------------
+```r
+# inspect CRS
+st_crs(hucs)
+
+# reproject to NAD83 (EPSG:4269) if needed
+hucs_4269 <- st_transform(hucs, 4269)
+st_write(hucs_4269, gpkg, layer = "project_hucs_nad83", append = TRUE)
+```
+
+6) Typical data path pattern
+----------------------------
+```r
+# read from GeoPackage by layer name
+hucs <- st_read(gpkg, layer = "project_hucs")
+
+# write processed outputs to a clean subfolder
+out_dir <- here("data","processed")
+dir.create(out_dir, showWarnings = FALSE)
+st_write(hucs, here(out_dir, "project_hucs_processed.gpkg"),
+         layer = "hucs_proc", delete_dsn = TRUE)
+```
+
+7) Git/GitHub notes for R users
+-------------------------------
+- Don’t commit big files (>50 MB). Put heavy data in **CyVerse**; link to it from `docs/` so others can fetch it.  
+- If you *must* version binaries (e.g., `.gpkg`), set up **Git LFS** in this repo.
+- Ignore notebook checkpoints to avoid merge noise:
+  ```
+  echo ".ipynb_checkpoints/" >> .gitignore
+  ```
+
+8) Update the website docs
+--------------------------
+Anything you add under `docs/` (e.g., this page) appears on the project site once pushed (GitHub Pages uses `/docs` from `main`).
