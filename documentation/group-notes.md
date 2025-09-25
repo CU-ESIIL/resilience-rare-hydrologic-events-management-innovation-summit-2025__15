@@ -75,7 +75,7 @@ See [Devise](https://devise.uwyo.edu/app)
 
 ## Maps
 
-- [landmapr](https://github.com/byandell-envsys/landmapr) R package
+- [landmapr](https://github.com/byandell-envsys/landmapr) R package for native-land and census data
 - <https://native-land.ca/>
 - [wakpa_yamni_kin](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/data/wakpa_yamni_kin.kml) (KML file for ARCInfo)
 
