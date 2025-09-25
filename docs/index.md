@@ -38,7 +38,11 @@ We plan to further develop our conceptual and hydrologic frameworks for these ba
 management strategies, and other factors both within and across these basins.
 
 ### Why this matters (the “upshot”) 📣
-Extreme hydrologic events are becoming less predictable, stressing emergency management capacity. Highlighting the intersection of exposure, vulnerability, and infrastructure sensitivity helps local leaders justify investments in resilient design and community preparedness.
+This is a unique study area.
+The Snake River is a major interstate river with heavy agriculture and large dams, in Idaho, Wyoming, and Washington.
+A standout feature is the Snake River Plain Aquifer, a highly productive yet fragile groundwater system flowing through fractured basalt.
+Water moves quickly through this aquifer and discharges into the Snake River, supporting irrigation, hydropower, and ecosystems.
+Intensive pumping in the eastern plain has lowered water tables though.
 
 ### Inspirations (papers, datasets, tools)
 - Publication: [NOAA Atlas 14 Guidance](https://hdsc.nws.noaa.gov/hdsc/pfds/)
