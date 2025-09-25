@@ -1,4 +1,4 @@
-Lilly Jones: I was also thinking about how to talk about or summarize this project and this is my current understanding
+**Lilly Jones:** I was also thinking about how to talk about or summarize this project and this is my current understanding
 (pls correct if I'm misunderstanding!)
 
 This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S.
@@ -26,9 +26,9 @@ Across the basins, there are several comparative angles for us to assess: govern
 
 Our current working framework highlights how physical systems and governance interact, showing how hydrogeology, law, and social priorities shape water management. These systems provide us with an opportunity to assess how physical systems and different management strategies interact. As we continue, we will explore more datasets, partner dynamics, and strategies to further assess contrasts and their effectiveness between the basins.
  
-Bob Rabin: Palmer Drought Index time series example for Wyoming Clime Division 2:
+**Bob Rabin:** Palmer Drought Index time series example for Wyoming Clime Division 2:
 
-Jason Tinant <jtinant@olc.edu> wrote:
+**Jason Tinant**:
 Reflecting:
 I heard a lot of nice ideas about teams today...
 And, adding something to the wisdom with something that you can choose to hold onto or put down -- for I believe that it's often the songs/stories/ideas we agree to share that bring and keep us close. And so I share a story that came to mind while reflecting on the day.
@@ -44,12 +44,10 @@ Who treated me in a kind way.
 Without obligation or acknowledgement.
 And passing along a tiny bit of what they shared... 
 
-On Tue, Sep 23, 2025 at 9:27 PM Charles Jason Tinant <jtinant@olc.edu> wrote:
 Mitakuye,
-
 I shared some EDA-related ideas in the running notes that might be helpful in generating a refined set of hypotheses that might help in better defining a set of questions relating back to (smile, perhaps) effects of water management /water rights / water use on the discussion of resilience, response, community healing/empowerment.
 
-On Sep 23, 2025, at 19:25, Ashley B Babcock <ababcoc5@uwyo.edu> wrote:
+**Ashley B Babcock**:
 Thanks for the great conversation today, and sorry I jetted so fast after food. Homework (lots of water law readings!). 
 
 Just to get the "book club" started early, wanted to share a couple podcasts I love (neither have episodes directly related to water, but tons of other good content):
