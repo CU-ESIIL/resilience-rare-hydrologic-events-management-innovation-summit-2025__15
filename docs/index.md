@@ -103,6 +103,8 @@ Create beautiful plots that describe these patterns and highlight the variations
 
 We recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
 
+- see Tyson results in CyVerse shared folder
+[esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
 - <https://portal.esiil.org> new CyVerse interface
 - CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
 
