@@ -8,7 +8,7 @@ We are intersted in how these aspects interact to influence snowpack, climate dy
 Data sources include but are not limited to: USGS streamflow and groundwater records, NOAA/NCEI climate data,
 PRISM and/or Daymet for weather, calculated indices like NDWI, soils and soil moisture, and ESA WorldCover, amongst others.
 
-We invision our datasets aligning with earth, air, fire, and water, and, considering the RAD model,
+We envision our datasets aligning with earth, air, fire, and water, and, considering the RAD model,
 have simplified management strategies in our study area to align these three basins as follows:
 Snake River management priority (resist); Green River basin (direct); and Wind River (accept).
 We plan to further develop our conceptual and hydrologic frameworks for these basins to assess hydrologic parameters,
