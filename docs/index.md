@@ -2,7 +2,7 @@
 
 ![Wide banner of the study system](assets/Headwaters.png)
 
-**Impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
+**Impact:** In three days, Group 15 _Wakpa Yamni_ is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
 
 **[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View code](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/prism_quicklook.py)**
 
