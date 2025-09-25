@@ -31,9 +31,11 @@ This is a comparative study of the Snake, Green, and Wind River Basins in the we
 - How do we measure response and resilience?
 
 ### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
-- We think that combining NOAA Atlas 14 design storms with updated climate projections will reveal emerging risk hotspots.
-- We intend to test whether infrastructure-critical assets align with high social vulnerability scores.
-- We will know we’re onto something if partners can quickly point to actionable “next step” mitigation actions from our visuals.
+We envision our datasets aligning with earth, air, fire, and water, and, considering the RAD model,
+have simplified management strategies in our study area to align these three basins as follows:
+Snake River management priority (resist); Green River basin (direct); and Wind River (accept).
+We plan to further develop our conceptual and hydrologic frameworks for these basins to assess hydrologic parameters,
+management strategies, and other factors both within and across these basins.
 
 ### Why this matters (the “upshot”) 📣
 Extreme hydrologic events are becoming less predictable, stressing emergency management capacity. Highlighting the intersection of exposure, vulnerability, and infrastructure sensitivity helps local leaders justify investments in resilient design and community preparedness.
