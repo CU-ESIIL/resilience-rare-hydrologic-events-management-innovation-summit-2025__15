@@ -36,45 +36,71 @@
 # Related Milestone Reports:
 # - milestone_01_download_prepare_covariates.pdf
 # ==============================================================================
-# --- Load required libraries ---
-library(dataRetrieval)
-library(here)
-library(sf)
-library(tidyverse)
-
-
 # --- load libraries ---
 suppressPackageStartupMessages({
   library(here)
   library(tidyverse)
   library(sf)
   library(janitor)
-  library(units)
-  library(skimr)
 })
 # ------------------------------------------------------------------------------
-# 0. Define paths and project CRS.
+# 1. Run Once -- Clean up the nonsense
 # ------------------------------------------------------------------------------
-in_gage_csv <- here("data", "processed", "peakflow_gages", "gage_summary_skew.csv")
+# rewrite each layer into one .gpkg (overwrite if it exists)
+# gpkg_path <- here("data", "study_area", "study_area.gpkg")
+# 
+# st_write(hucs, gpkg_path,
+#          layer = "project_hucs",
+#          delete_dsn = file.exists(gpkg_path))
+# 
+# # append second layer
+# st_write(outline, gpkg_path, layer = "project_outline", append = TRUE)
 
-out_dir <- here("data", "processed", "peakflow_gages")
-out_csv <- file.path(out_dir, "stations_covars.csv")
-out_gpkg <- file.path(out_dir, "stations_covars.gpkg")
-out_layer <- "stations_covars"
+# # ------------------------------------------------------------------------------
+# # 1. Define paths and project CRS.
+# # ------------------------------------------------------------------------------
+# gpkg <- here("data", "study_area", "study_area.gpkg")
+# 
+# # list all layers inside the GeoPackage
+# st_layers(gpkg)
+# 
+# 
+# # --- load hucs ---
+# hucs <- st_read(gpkg,
+#                 layer = "project_hucs")
+# 
+# # --- show the CRS should be in WGS84 Geographic ---
+# head(hucs)
 
-crs_nad83 <- 4269 # NAD83 geographic (decimal degrees)
-crs_wgs84 <- 4326 # WGS84 geographic (decimal degrees)
-crs_nad27 <- 4267 # NAD27 geographic (Clarke 1866)
-crs_out   <- 5070 # CONUS Albers Equal Area (repo standard)
+# ------------------------------------------------------------------------------
+# 1. Run Once -- Clean up the other nonsense
+# ------------------------------------------------------------------------------
+# --- read the HUCs layer ---
+hucs <- st_read(gpkg, layer = "project_hucs", quiet = TRUE)
 
+# clean it up:
+# - drop HTML `description` + GE/KML fields
+# - normalize names
+# - drop Z/M to 2D
+# - keep only the columns you want
+hucs_clean <-
+  hucs %>%
+  clean_names() %>%
+  select(name, geom) %>%   # keep the useful bits
+  st_zm(drop = TRUE, what = "ZM")                   # MULTIPOLYGON (2D)
 
+# --- ensure valid geometries ---
+hucs_clean <- st_make_valid(hucs_clean)
 
-
-
-
-
-
-
+# write back to the same gpkg
+# use delete_layer=TRUE to replace the original layer,
+# or append=TRUE to keep both versions (with a new name)
+# st_write(
+#   hucs_clean,
+#   dsn   = gpkg,
+#   layer = "project_hucs",
+#   delete_layer = TRUE
+# )
 
 
 
