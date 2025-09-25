@@ -58,6 +58,13 @@ Across the basins, there are several comparative angles for us to assess: govern
 
 ![Three Waters](assets/ThreeWaters.png)
 
+#### Interactive map (iframe)
+<iframe
+  title="Study area (OpenStreetMap)"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=-107.000%2C40.000%2C-111.00%2C46.000&layer=mapnik&marker=43.000%2C-109.500"
+  width="100%" height="360" frameborder="0"></iframe>
+<p><a href="https://www.openstreetmap.org/?mlat=43.000&mlon=-109.500#map=12/43.0000/-109.500">Open full map</a></p>
+
 ---
 
 ## Day 2 — Data & Methods
@@ -163,15 +170,6 @@ Some data images from expert approach:
 ![Animation of cumulative rainfall anomalies during a historic event](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/change.gif)
 *Figure 2.* One line on what changes across time.
-
-#### Interactive map (iframe)
-<iframe
-  title="Study area (OpenStreetMap)"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-105.35%2C39.90%2C-105.10%2C40.10&layer=mapnik&marker=40.000%2C-105.225"
-  width="100%" height="360" frameborder="0"></iframe>
-<p><a href="https://www.openstreetmap.org/?mlat=40.000&mlon=-105.225#map=12/40.0000/-105.2250">Open full map</a></p>
-
-> If an embed doesn’t load, place the standard link immediately below it.
 
 ---
 
