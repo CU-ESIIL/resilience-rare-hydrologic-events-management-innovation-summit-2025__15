@@ -1,4 +1,4 @@
-# Resilience for Hydrologic Events Management
+# Wakpa Yamni: Resilience for Hydrologic Events Management
 
 ![Wide banner of the study system](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Headwaters.png)
 
