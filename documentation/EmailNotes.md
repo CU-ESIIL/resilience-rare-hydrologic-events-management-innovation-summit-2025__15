@@ -14,7 +14,11 @@ Snake River management priority (resist); Green River basin (direct); and Wind R
 We plan to further develop our conceptual and hydrologic frameworks for these basins to assess hydrologic parameters,
 management strategies, and other factors both within and across these basins.
 
-This is a unique study area. The Snake River is a major interstate river with heavy agriculture and large dams, in Idaho, Wyoming, and Washington. A standout feature is the Snake River Plain Aquifer, a highly productive yet fragile groundwater system flowing through fractured basalt. Water moves quickly through this aquifer and discharges into the Snake River, supporting irrigation, hydropower, and ecosystems. Intensive pumping in the eastern plain has lowered water tables though.
+This is a unique study area.
+The Snake River is a major interstate river with heavy agriculture and large dams, in Idaho, Wyoming, and Washington.
+A standout feature is the Snake River Plain Aquifer, a highly productive yet fragile groundwater system flowing through fractured basalt.
+Water moves quickly through this aquifer and discharges into the Snake River, supporting irrigation, hydropower, and ecosystems.
+Intensive pumping in the eastern plain has lowered water tables though.
 
 The Green River, originating in Wyoming, is a major tributary of the Colorado River and goverened by Colorado River Compact allocations. The Wind River is smaller but hydrologically important, with local agriculture and tribal water rights shaping governance. These differences make a comparative study especially interesting, as each basin has distinct management approaches, power structures, and constraints.
 The Snake River Basin is managed by federal agencies (Bureau of Rec and Army Corps), and Idaho state law. Water use is dominated by irrigation, hydropower, and aquaculture, with large, wealthy landowners and irrigation districts holding significant influence. Issues include balancing hydropower and irrigation, salmon restoration, and groundwater depletion in the aquifer. In this basin, economic interests and infrastructure drive management decisions to resist changes.
