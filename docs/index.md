@@ -44,11 +44,6 @@ A standout feature is the Snake River Plain Aquifer, a highly productive yet fra
 Water moves quickly through this aquifer and discharges into the Snake River, supporting irrigation, hydropower, and ecosystems.
 Intensive pumping in the eastern plain has lowered water tables though.
 
-### Inspirations (papers, datasets, tools)
-- Publication: [NOAA Atlas 14 Guidance](https://hdsc.nws.noaa.gov/hdsc/pfds/)
-- Dataset portal: [USGS StreamStats](https://streamstats.usgs.gov/)
-- Tool/tech: [FEMA Hazus flood mitigation library](https://www.fema.gov/flood-maps/tools-resources/hazus)
-
 ### Field notes / visuals
 The Green River, originating in Wyoming, is a major tributary of the Colorado River and goverened by Colorado River Compact allocations.
 The Wind River is smaller but hydrologically important, with local agriculture and tribal water rights shaping governance.
@@ -115,7 +110,17 @@ _Create a topographic map with river features including DEM that delineates the 
 
 Create beautiful plots that describe these patterns and highlight the variations between them.
 
-I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
+We recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
+
+- <https://portal.esiil.org> new CyVerse interface
+- CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
+
+## Following kept but not used
+
+### Inspirations (papers, datasets, tools)
+- Publication: [NOAA Atlas 14 Guidance](https://hdsc.nws.noaa.gov/hdsc/pfds/)
+- Dataset portal: [USGS StreamStats](https://streamstats.usgs.gov/)
+- Tool/tech: [FEMA Hazus flood mitigation library](https://www.fema.gov/flood-maps/tools-resources/hazus)
 
 - **NOAA Atlas 14 extreme precipitation grids** — baseline design storms to benchmark current planning thresholds.
 
