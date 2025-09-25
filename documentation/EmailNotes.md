@@ -1,4 +1,4 @@
-Lilly: I was also thinking about how to talk about or summarize this project and this is my current understanding
+Lilly Jones: I was also thinking about how to talk about or summarize this project and this is my current understanding
 (pls correct if I'm misunderstanding!)
 
 This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S.
@@ -26,32 +26,9 @@ Across the basins, there are several comparative angles for us to assess: govern
 
 Our current working framework highlights how physical systems and governance interact, showing how hydrogeology, law, and social priorities shape water management. These systems provide us with an opportunity to assess how physical systems and different management strategies interact. As we continue, we will explore more datasets, partner dynamics, and strategies to further assess contrasts and their effectiveness between the basins.
  
+Bob Rabin: Palmer Drought Index time series example for Wyoming Clime Division 2:
 
-From: Bob Rabin <bob.meteor@gmail.com>
-Sent: Wednesday, September 24, 2025 4:35 PM
-To: Charles Jason Tinant <jtinant@olc.edu>
-Cc: Ashley B Babcock <ababcoc5@uwyo.edu>; Elisha Yellow Thunder <eyellowthunder@olc.edu>; Brian Yandell <brian.yandell@wisc.edu>; Lilly Jones <Lilly.Jones-1@colorado.edu>; Darryl Reano <Darryl.Reano@asu.edu>; john.parker@sosgeo.uio.no <john.parker@sosgeo.uio.no>
-Subject: Re: Group 15 GitHub
- 
-[External email - use caution]
-
-Palmer Drought Index time series example for Wyoming Clime Division 2:
-
-https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802
-
--Bob 
-Sent from my iPhone
-
-On Sep 24, 2025, at 16:21, Bob Rabin <bob.meteor@gmail.com> wrote:
-
-﻿
-<image0.jpeg>
-<image1.jpeg>
-
-Sent from my iPhone
-
-
-On Tue, Sep 23, 2025 at 11:47 PM Charles Jason Tinant <jtinant@olc.edu> wrote:
+Jason Tinant <jtinant@olc.edu> wrote:
 Reflecting:
 I heard a lot of nice ideas about teams today...
 And, adding something to the wisdom with something that you can choose to hold onto or put down -- for I believe that it's often the songs/stories/ideas we agree to share that bring and keep us close. And so I share a story that came to mind while reflecting on the day.
