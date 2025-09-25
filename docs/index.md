@@ -1,4 +1,4 @@
-# Resilience for Rare Hydrologic Events Management
+# Resilience for Hydrologic Events Management
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
 
@@ -6,10 +6,9 @@
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
-![Wide banner of the study system](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/hero.jpg)
+![Wide banner of the study system](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Headwaters.png)
 
-**One sentence on impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers anticipate rare hydrologic extremes and plan resilient responses.
+**One sentence on impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
 
 **[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View code](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/prism_quicklook.py)**
 
