@@ -98,9 +98,24 @@ Study real-world interconnect examples of RAD using earth/air/fire/water measure
   - **Direct**: Green River / agribusiness / improve yield
 
 ### Data sources we’re exploring 📣
-<!-- EDIT: Link each source; add size/notes if relevant. -->
-- **Source A**
-- Source B — link and 1-line description
+_Prompt delivered to Claude for AI rendering:_ We want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries by HUC)
+and the second major reservoir for each river. I want to download
+atmospheric (precipitation and NDVI and PRISM),
+streamflow (USGS water, NDWI),
+land cover (NLCD or ESA World Cover or EMIT)
+and
+soil moisture (Palmer drought stress index or NASA SMAP)
+data.
+
+Download the data for a range of dates from 1994-2024. Store the data in this project folder.
+
+Write python / R scripts to analyze the monthly to yearly variations in vapor pressure deficit and potential evapotranspiration for the sites.
+
+_Create a topographic map with river features including DEM that delineates the three watersheds in their bounded regions._
+
+Create beautiful plots that describe these patterns and highlight the variations between them.
+
+I recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
 
 - **NOAA Atlas 14 extreme precipitation grids** — baseline design storms to benchmark current planning thresholds.
 
