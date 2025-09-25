@@ -1,6 +1,6 @@
 # Wakpa Yamni: Resilience for Hydrologic Events Management
 
-![Wide banner of the study system](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Headwaters.png)
+![Wide banner of the study system](assets/Headwaters.png)
 
 **Impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
 
@@ -12,9 +12,9 @@
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
-![initial whiteboard](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Group15.png)
-![revised whiteboard](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/revisedGroup15.png)
-![more notes](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Group15Notes.png)
+![initial whiteboard](assets/Group15.png)
+![revised whiteboard](assets/revisedGroup15.png)
+![more notes](assets/Group15Notes.png)
 
 ### Our product 📣
 This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S. Our goal is to examine how hydrology, governance, and management interact within and across these basins. We are focusing on three main aspects: hydrology; water management, and socioeconomic/legal frameworks. We are intersted in how these aspects interact to influence snowpack, climate dynamics, and streamflow. Data sources include but are not limited to: USGS streamflow and groundwater records, NOAA/NCEI climate data, PRISM and/or Daymet for weather, calculated indices like NDWI, soils and soil moisture, and ESA WorldCover, amongst others.
@@ -56,7 +56,7 @@ Compact obligations limit flexibility, creating a management narrative dominated
 The Wind River Basin is unique because tribal sovereignty is central. The Shoshone and Arapahoe Tribes hold water rights confirmed through the Big Horn adjudication. Governance involves tribal, state, and federal agencies, supporting tribal agriculture, ranching, and cultural uses. Challenges include enforcing water rights against state pushback from Wyoming, funding infrastructure, and cultural values.
 Across the basins, there are several comparative angles for us to assess: governance differences (economic power in Snake, legal compacts in Green, tribal sovereignty in Wind); equity (who benefits and who bears scarcity; and climate adaptation (flexibility versus lock-in; and narratives of power, economic influence, legal obligations, and cultural authority).
 
-![Three Waters](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/ThreeWaters.png)
+![Three Waters](assets/ThreeWaters.png)
 
 ---
 
@@ -110,8 +110,8 @@ We recommend that you create and save a plan.md that documents how you expect to
 
 Some data images from expert approach:
 
-![Palmer](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Palmer.png)
-![ee-chart](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/ee-chart.png)
+![Palmer](assets/Palmer.png)
+![ee-chart](assets/ee-chart.png)
 
 ---
 
