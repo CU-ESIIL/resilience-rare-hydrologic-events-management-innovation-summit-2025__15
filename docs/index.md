@@ -50,9 +50,25 @@ Intensive pumping in the eastern plain has lowered water tables though.
 - Tool/tech: [FEMA Hazus flood mitigation library](https://www.fema.gov/flood-maps/tools-resources/hazus)
 
 ### Field notes / visuals
-![Whiteboard brainstorm summarizing stakeholder questions](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: Initial framing of community partners, target outcomes, and constraints.*
+The Green River, originating in Wyoming, is a major tributary of the Colorado River and goverened by Colorado River Compact allocations.
+The Wind River is smaller but hydrologically important, with local agriculture and tribal water rights shaping governance.
+These differences make a comparative study especially interesting, as each basin has distinct management approaches, power structures, and constraints.
+
+The Snake River Basin is managed by federal agencies (Bureau of Rec and Army Corps), and Idaho state law.
+Water use is dominated by irrigation, hydropower, and aquaculture, with large, wealthy landowners and irrigation districts holding significant influence.
+Issues include balancing hydropower and irrigation, salmon restoration, and groundwater depletion in the aquifer.
+In this basin, economic interests and infrastructure drive management decisions to resist changes.
+
+The Green River Basin is governed by the Colorado River Compact.
+Agriculture is the main water use (alfalfa and cattle), and dominates water demand, but municipal and energy needs are growing.
+Declining snowpack and drought pressures challenge fair water allocation.
+Compact obligations limit flexibility, creating a management narrative dominated by the desire to direct water in ways that might not be supportive of the natural hydrologic regime.
+
+The Wind River Basin is unique because tribal sovereignty is central. The Shoshone and Arapahoe Tribes hold water rights confirmed through the Big Horn adjudication. Governance involves tribal, state, and federal agencies, supporting tribal agriculture, ranching, and cultural uses. Challenges include enforcing water rights against state pushback from Wyoming, funding infrastructure, and cultural values.
+Across the basins, there are several comparative angles for us to assess: governance differences (economic power in Snake, legal compacts in Green, tribal sovereignty in Wind); equity (who benefits and who bears scarcity; and climate adaptation (flexibility versus lock-in; and narratives of power, economic influence, legal obligations, and cultural authority).
+
+![Three Waters](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/ThreeWaters.png)
+
 
 > **Different perspectives:** Capture alternative framings from emergency managers, hydrologists, and community leaders—they often surface new leverage points.
 
