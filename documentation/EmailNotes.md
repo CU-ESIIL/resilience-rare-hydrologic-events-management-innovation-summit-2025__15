@@ -1,4 +1,4 @@
-I was also thinking about how to talk about or summarize this project and this is my current understanding
+Lilly: I was also thinking about how to talk about or summarize this project and this is my current understanding
 (pls correct if I'm misunderstanding!)
 
 This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S.
