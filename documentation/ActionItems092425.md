@@ -11,6 +11,7 @@ Let's use this space to list our proposed individual action items moving forward
   - I suggest: "Be Kind and respect others boundaries, capacity, and fallibility; otherwise, do as thou wilt shall be the whole of the law."
     - lol: *Think Indian and don't let nobody boss you around.*
   - Are there other slogans?
+- Could we agree to use GPKG rather than shapefiles for working between ESRI and R/Python? (the issue here is a shapefile needs an shp, shx, dbf, ...)
 
 ### Individual Action Items
 
