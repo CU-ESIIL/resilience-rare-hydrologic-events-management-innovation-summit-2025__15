@@ -55,6 +55,17 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 *Caption: Initial framing of community partners, target outcomes, and constraints.*
 
 > **Different perspectives:** Capture alternative framings from emergency managers, hydrologists, and community leaders—they often surface new leverage points.
+# Comparative Framework: Snake, Green, and Wind River Basins  
+
+| Dimension | Snake River Basin | Green River Basin | Wind River Basin |
+|-----------|------------------|------------------|-----------------|
+| **Governance structure** | Bureau of Reclamation, Army Corps, state water law, irrigation districts | Colorado River Compact obligations; Bureau of Reclamation; state agencies | Tribal sovereignty (Shoshone & Arapaho); Big Horn adjudication; state–tribal interactions |
+| **Dominant water uses** | Irrigation (large landowners), hydropower, aquaculture, municipal | Irrigation (alfalfa, cattle ranching), some municipal/energy | Tribal agriculture/ranching, non-tribal irrigation, cultural/traditional uses |
+| **Power structure** | Wealthy landowners + irrigation districts wield significant influence | Agriculture-driven; Compact obligations constrain state flexibility | Tribal governments hold senior rights; sovereignty central but contested |
+| **Key legal/management drivers** | ESA (salmon recovery), groundwater depletion policies | Colorado River Compact, Upper Basin obligations, agricultural efficiency debates | Big Horn adjudication, tribal sovereignty, federal trust responsibilities |
+| **Equity/justice concerns** | Concentration of water rights; tension between economic vs. ecological needs | Farmers vs. downstream obligations; small vs. large ag operations | Historic marginalization of tribes; water justice; infrastructure disparities |
+| **Climate vulnerability** | Declining snowpack, groundwater depletion, salmon runs stressed | Drought + Compact shortages; snowpack decline; ag dependence | Snowmelt timing shifts; water quality; compounded by underfunded infrastructure |
+| **Management narrative** | Economic power and infrastructure lock-in drive decisions | Legal rigidity from Compact + ag dependence dominate | Sovereignty and justice frame management, with cultural values influencing decisions |
 
 ---
 
