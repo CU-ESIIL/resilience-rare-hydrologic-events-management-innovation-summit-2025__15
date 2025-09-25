@@ -108,6 +108,11 @@ We recommend that you create and save a plan.md that documents how you expect to
 - <https://portal.esiil.org> new CyVerse interface
 - CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
 
+Some data images from expert approach:
+
+![Palmer](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Palmer.png)
+![ee-chart](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/ee-chart.png)
+
 ---
 
 ## Following kept but not used
