@@ -58,9 +58,6 @@ Across the basins, there are several comparative angles for us to assess: govern
 
 ![Three Waters](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/ThreeWaters.png)
 
-
-> **Different perspectives:** Capture alternative framings from emergency managers, hydrologists, and community leaders—they often surface new leverage points.
-
 ---
 
 ## Day 2 — Data & Methods
