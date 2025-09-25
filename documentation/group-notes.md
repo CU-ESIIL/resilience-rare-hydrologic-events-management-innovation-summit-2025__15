@@ -96,7 +96,7 @@ See [Devise](https://devise.uwyo.edu/app)
 - <https://native-land.ca/>
 - [wakpa_yamni_kin](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/data/wakpa_yamni_kin.kml) (KML file for ARCInfo)
 
-![](images/High_level_constraints_2.png)
+![](images/ThreeWaters.png)
 
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 
