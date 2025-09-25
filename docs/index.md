@@ -8,32 +8,27 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 ![Wide banner of the study system](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Headwaters.png)
 
-**One sentence on impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
+**Impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
 
 **[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View code](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/prism_quicklook.py)**
 
-> **About this site:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
-
----
-
-## How to use this page (for the team)
-- **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
-- **Add images:** upload to `docs/assets/` and reference like `assets/your_file.png`.
-- Keep **text short** and **visuals first**. Think “slide captions,” not essays.
+> **About:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
 
 ---
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
+![initial whiteboard](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Group15.png)
+![revised whiteboard](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/revisedGroup15.png)
+![more notes](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/documentation/images/Group15Notes.png)
 
 ### Our product 📣
-- Rapid brief highlighting flood preparedness scenarios for Colorado River Basin communities.
-- Map-based story showing infrastructure hotspots sensitive to extreme rainfall.
+This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S. Our goal is to examine how hydrology, governance, and management interact within and across these basins. We are focusing on three main aspects: hydrology; water management, and socioeconomic/legal frameworks. We are intersted in how these aspects interact to influence snowpack, climate dynamics, and streamflow. Data sources include but are not limited to: USGS streamflow and groundwater records, NOAA/NCEI climate data, PRISM and/or Daymet for weather, calculated indices like NDWI, soils and soil moisture, and ESA WorldCover, amongst others.
 
 ### Our question(s) 📣
-- Which basins and communities are most exposed to rare, high-intensity precipitation events?
-- How can we blend precipitation frequency analyses with social vulnerability indicators to prioritize mitigation investments?
-- What data storytelling formats communicate risk and resilience actions clearly to decision makers?
+- How are current river management practices affecting communities and ecosystems?
+- What is the response of river communities and ecosystems to hydrologic and meteorologic events?
+- How do we measure response and resilience?
 
 ### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
 - We think that combining NOAA Atlas 14 design storms with updated climate projections will reveal emerging risk hotspots.
