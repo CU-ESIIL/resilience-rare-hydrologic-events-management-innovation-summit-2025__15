@@ -109,6 +109,8 @@ We recommend that you create and save a plan.md that documents how you expect to
 - <https://portal.esiil.org> new CyVerse interface
 - CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
 
+---
+
 ## Following kept but not used
 
 ### Inspirations (papers, datasets, tools)
