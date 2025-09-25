@@ -58,12 +58,8 @@ Across the basins, there are several comparative angles for us to assess: govern
 
 ![Three Waters](assets/ThreeWaters.png)
 
-#### Interactive map (iframe)
-<iframe
-  title="Study area (OpenStreetMap)"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-107.000%2C40.000%2C-111.00%2C46.000&layer=mapnik&marker=43.000%2C-109.500"
-  width="100%" height="360" frameborder="0"></iframe>
-<p><a href="https://www.openstreetmap.org/?mlat=43.000&mlon=-109.500#map=12/43.0000/-109.500">Open full map</a></p>
+#### Interactive map
+[![Study area (OpenStreetMap)](https://www.openstreetmap.org/export/embed.png?bbox=-107.000%2C40.000%2C-111.00%2C46.000&layer=mapnik&marker=43.000%2C-109.500)](https://www.openstreetmap.org/?mlat=43.000&mlon=-109.500#map=12/43.0000/-109.500)
 
 ---
 
