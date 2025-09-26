@@ -144,7 +144,7 @@ NDWI over time
 | ![](assets/WakpaYamniTeam.png) | ![](assets/WakpaYamniTeam2.png) |
 |----------------------------|----------------------------|
 
-| ![](assets/WakpaYamniPresent.png) | ![](assets/WakpaYamniPresent2.png) |
+| ![](assets/WakpaYamniPresent.png) | ![](assets/WakpaYamniPresent3.png) |
 |----------------------------|----------------------------|
 
 ---
