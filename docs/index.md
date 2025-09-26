@@ -130,13 +130,16 @@ Palmer drought index (PDSI)
 [NCEI Link](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
 
 PDSI for Snake, Green and Wind Rivers:
+
 | ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
 |----------------------------|----------------------------|---------------------------|
 
 Normalized Difference Water Index (NDWI) for 2024
+
 ![NDWI 2024](assets/NDWI2024.png)
 
 NDWI over time
+
 ![ee-chart](assets/ee-chart.png)
 
 ## Wakpa Yamni Team in Action!
