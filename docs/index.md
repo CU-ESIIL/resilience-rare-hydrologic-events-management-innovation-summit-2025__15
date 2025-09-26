@@ -150,6 +150,8 @@ NDWI over time
 | ![](assets/WakpaYamniPresent.png) | ![](assets/WakpaYamniPresent3.png) |
 |----------------------------|----------------------------|
 
+![](assets/WakpaYamniGoodbye.png) 
+
 ---
 
 ## Following kept but not used
