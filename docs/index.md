@@ -115,6 +115,9 @@ Some data images from expert approach:
 
 ![Palmer_PDSI](assets/Palmer_PDSI.png)
 
+| ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
+|----------------------------|----------------------------|---------------------------|
+
 Normalized Difference Water Index (NDWI) for 2024
 ![NDWI 2024](assets/NDWI2024.png)
 
