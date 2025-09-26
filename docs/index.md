@@ -67,6 +67,17 @@ Across the basins, there are several comparative angles for us to assess: govern
 
 ### Coding / Tasks
 Two distinct but interconnected approaches to coding.
+These are complementary and will, over time, inform each other.
+The AI no-code provides a new set of data worth mining in terms of
+(a) code ideas and (b) simulated data.
+This will take some time to understand, much like vast collections of maps
+and, in another setting, genomic data (microarrays and DNA sequences).
+
+The python/R code is informed by years on expertise on the part of our team
+members, with creative insights about what is important to pursue.
+These insights and deep perspectives
+are impossible (at present, and maybe for a long time) with AI.
+However, we will design future AI prompts based on our expert coding successes.
 
 - AI tool from Tyson
   - no-code as starting point
