@@ -10,8 +10,20 @@
 
 ---
 
-- [Day 1 — Define & Explore](#day_1_define_explore)
-- [Day 2 — Data & Methods](#day_2_—_data_&_methods)
+- [Day 1 — Define & Explore](#day-1--define--explore)
+  - [Our product](#our-product)
+  - [Our questions](#our-questions)
+  - [Hypotheses / intentions](#hypotheses--intentions)
+  - [Why this matters (the “upshot”)](#why_this_matters_the_upshot)
+  - [Field notes / visuals](#field-notes--visuals)
+  - [Interactive map](#interactive-map)
+- [Day 2 — Data & Methods](#day-2--data--methods)
+  - [Coding / Tasks](#coding--tasks)
+  - [Theory and Practice](#theory-and-practice)
+  - [Data sources we’re exploring](#data-sources-were-exploring)
+    - [AI Prompt Engeneering](#ai-prompt-engeneering)
+    - [Expert Python and R Coding](#expert-python-and-r-coding)
+- [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
@@ -22,12 +34,12 @@
 ### Our product 📣
 This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S. Our goal is to examine how hydrology, governance, and management interact within and across these basins. We are focusing on three main aspects: hydrology; water management, and socioeconomic/legal frameworks. We are intersted in how these aspects interact to influence snowpack, climate dynamics, and streamflow. Data sources include but are not limited to: USGS streamflow and groundwater records, NOAA/NCEI climate data, PRISM and/or Daymet for weather, calculated indices like NDWI, soils and soil moisture, and ESA WorldCover, amongst others.
 
-### Our question(s) 📣
+### Our questions 📣
 - How are current river management practices affecting communities and ecosystems?
 - What is the response of river communities and ecosystems to hydrologic and meteorologic events?
 - How do we measure response and resilience?
 
-### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
+### Hypotheses / intentions
 We envision our datasets aligning with earth, air, fire, and water, and, considering the RAD model,
 have simplified management strategies in our study area to align these three basins as follows:
 Snake River management priority (resist); Green River basin (direct); and Wind River (accept).
@@ -101,6 +113,8 @@ Study real-world interconnect examples of RAD using earth/air/fire/water measure
   - **Direct**: Green River / agribusiness / improve yield
 
 ### Data sources we’re exploring 📣
+
+#### AI Prompt Engeneering
 _Prompt delivered to Claude for AI rendering:_ We want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries by HUC)
 and the second major reservoir for each river. I want to download
 atmospheric (precipitation and NDVI and PRISM),
@@ -124,6 +138,8 @@ We recommend that you create and save a plan.md that documents how you expect to
 [esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
 - <https://portal.esiil.org> new CyVerse interface
 - CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
+
+#### Expert Python and R Coding
 
 Some data images from expert approach:
 
