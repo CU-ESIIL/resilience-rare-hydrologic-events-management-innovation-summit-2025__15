@@ -113,7 +113,12 @@ We recommend that you create and save a plan.md that documents how you expect to
 
 Some data images from expert approach:
 
-![Palmer](assets/Palmer.png)
+![Palmer_PDSI](assets/Palmer_PDSI.png)
+
+Normalized Difference Water Index (NDWI) for 2024
+![NDWI 2024](assets/NDWI2024.png)
+
+NDWI over time
 ![ee-chart](assets/ee-chart.png)
 
 ---
