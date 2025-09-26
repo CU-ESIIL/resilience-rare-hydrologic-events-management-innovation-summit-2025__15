@@ -66,7 +66,7 @@ Across the basins, there are several comparative angles for us to assess: govern
 ## Day 2 — Data & Methods
 
 ### Coding / Tasks
-Two distinct but interconnected approaches to coding.
+Two distinct but synergistically interconnected approaches to coding.
 These are complementary and will, over time, inform each other.
 The AI no-code provides a new set of data worth mining in terms of
 (a) code ideas and (b) simulated data.
