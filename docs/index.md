@@ -143,7 +143,8 @@ We recommend that you create and save a plan.md that documents how you expect to
 
 Some data images from expert approach:
 
-Palmer drought index (PDSI)
+[Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
+
 ![Palmer_PDSI](assets/Palmer_PDSI.png)
 
 [NCEI Link](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
@@ -153,7 +154,7 @@ PDSI for Snake, Green and Wind Rivers:
 | ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
 |----------------------------|----------------------------|---------------------------|
 
-Normalized Difference Water Index (NDWI) for 2024
+[Normalized Difference Water Index (NDWI)](https://www.geographyrealm.com/normalized-difference-water-index-flooding/) for 2024
 
 ![NDWI 2024](assets/NDWI2024.png)
 
