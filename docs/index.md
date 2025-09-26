@@ -162,6 +162,11 @@ NDWI over time
 
 ![ee-chart](assets/ee-chart.png)
 
+Locations of NWS and RAWS weather stations:
+[MESOWEST Link](https://mesowest.utah.edu/cgi-bin/droman/mesomap.cgi?state=WY&rawsflag=3)
+
+![](assets/mesowest_wy.png)
+
 ## Wakpa Yamni Team in Action!
 
 | ![](assets/WakpaYamniTeam.png) | ![](assets/WakpaYamniTeam2.png) |
