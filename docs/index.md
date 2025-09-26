@@ -10,6 +10,9 @@
 
 ---
 
+- [Day 1 — Define & Explore](#day_1_define_explore)
+- [Day 2 — Data & Methods](#day_2_—_data_&_methods)
+
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 ![initial whiteboard](assets/Group15.png)
