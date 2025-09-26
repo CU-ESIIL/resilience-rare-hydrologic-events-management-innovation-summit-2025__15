@@ -139,6 +139,14 @@ Normalized Difference Water Index (NDWI) for 2024
 NDWI over time
 ![ee-chart](assets/ee-chart.png)
 
+## Team in Action!
+
+| ![](assets/WakpaYamniTeam.png) | ![](assets/WakpaYamniTeam2.png) |
+|----------------------------|----------------------------|
+
+| ![](assets/WakpaYamniPresent.png) | ![](assets/WakpaYamniPresent2.png) |
+|----------------------------|----------------------------|
+
 ---
 
 ## Following kept but not used
