@@ -127,6 +127,8 @@ Some data images from expert approach:
 Palmer drought index (PDSI)
 ![Palmer_PDSI](assets/Palmer_PDSI.png)
 
+[NCEI Link](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
+
 PDSI for Snake, Green and Wind Rivers:
 | ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
 |----------------------------|----------------------------|---------------------------|
