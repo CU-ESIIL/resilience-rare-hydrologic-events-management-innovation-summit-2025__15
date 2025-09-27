@@ -16,7 +16,7 @@ Use this page to keep contact details current so collaborators can reach you qui
 | _Darryl Reano_ ||| _darryl.reano@asu.edu_ | [@_darrylreano_](https://github.com/darrylreano) |
 | _Elisha Yellow Thunder_ ||| _eyellowthunder@olc.edu_ | [@_wakinyanzi_](https://github.com/wakinyanzi) |
 | _Jason Tinant_ ||| _jtinant@olc.edu_ | [@_cjtinant_](https://github.com/cjtinant) |
-| _Lilly Jones_ | _Data & modeling_ | _Hydrologic analysis_  _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
+| _Lilly Jones_ | _Data & modeling_ | _Hydrologic analysis_ | _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
 
 Roles and focus areas are fluid.
 The project was suggested by Ashley, who provides the inspiration, grounding and motivation.
