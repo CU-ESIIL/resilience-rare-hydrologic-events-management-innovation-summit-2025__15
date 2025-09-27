@@ -10,17 +10,17 @@ Use this page to keep contact details current so collaborators can reach you qui
 
 | Name | Role | Focus area | Contact | GitHub |
 |------|------|------------|---------|--------|
-| _Add team member_ | _Lead / coordination_ | _Overall strategy_ | _name@example.org_ | @_github_ |
-| _Add team member_ | _Data & modeling_ | _Hydrologic analysis_ | _name@example.org_ | @_github_ |
-| _Add team member_ | _Community liaison_ | _Stakeholder engagement_ | _name@example.org_ | @_github_ |
-| _Add team member_ | _Visualization & comms_ | _Story products_ | _name@example.org_ | @_github_ |
-| [_Brian Yandell_](https://byandell.github.io) | | | _byandell@wisc.edu_ | [@_byandell_](https://github.com/byandell) |
-| _Lilly Jones_ ||| _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
-| _Elisha Yellow Thunder_ ||| _eyellowthunder@olc.edu_ | [@_wakinyanzi_](https://github.com/wakinyanzi) |
+| _Ashley Babcock UWyo_ | _Lead / coordination_ | _Project motivation_ | _ababcoc5@uwyo.edu_ | [@_ashbabs14_](https://github.com/ashbabs14) |
 | _Bob Rabin_ ||| _bob.meteor@gmail.com_ | [@_meteoralert_](https://github.com/meteoralert) |
-| _Jason Tinant_ ||| _jtinant@olc.edu_ | [@_cjtinant_](https://github.com/cjtinant) |
-| _Ashley Babcock UWyo_ ||| _ababcoc5@uwyo.edu_ | [@_ashbabs14_](https://github.com/ashbabs14) |
+| [_Brian Yandell_](https://byandell.github.io) | | | _byandell@wisc.edu_ | [@_byandell_](https://github.com/byandell) |
 | _Darryl Reano_ ||| _darryl.reano@asu.edu_ | [@_darrylreano_](https://github.com/darrylreano) |
+| _Elisha Yellow Thunder_ ||| _eyellowthunder@olc.edu_ | [@_wakinyanzi_](https://github.com/wakinyanzi) |
+| _Jason Tinant_ ||| _jtinant@olc.edu_ | [@_cjtinant_](https://github.com/cjtinant) |
+| _Lilly Jones_ | _Data & modeling_ | _Hydrologic analysis_  _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
+
+Roles and focus areas are fluid.
+The project was suggested by Ashley, who provides the inspiration, grounding and motivation.
+All members will be engaged in as their best professional selves.
 
 ## Working norms
 - Preferred communication channel: `#innovation-summit-group-15` on Slack.
