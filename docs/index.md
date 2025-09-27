@@ -118,9 +118,12 @@ to achieve _de novo_ with AI.
 and [EarthDataAnalytics Course](https://github.com/byandell-envsys/EarthDataAnalytics)
 
 ### Theory and Practice
-Study real-world interconnect examples of 
+Study a real-world interconnected system that illustrates the 
 [Resist/Accept/Direct (RAD)](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/resist-accept-direct-rad-framework)
-using earth/air/fire/water measurements
+framework using earth/air/fire/water measurements spanning this three-river environment.
+RAD is, of course, an over-simplification to explain a set of environments
+that have evolved over many time and space scales,
+but it should provide useful insights about putting theory into practice.
 
 - RAD played out in watersheds
   - **Resist**: Snake River / wealth & power / protect property
