@@ -1,6 +1,8 @@
 # Wakpa Yamni: Resilience for Hydrologic Events Management
+<p align=center>Iñupiatun (Iñupiaq language): Piŋasut kurgit
+<p align=center>Ojibwemowin (Ojibwa Language): Niso-ziibiwan
 
-![Wide banner of the study system](assets/Headwaters.png)
+  ![Wide banner of the study system](assets/Headwaters.png)
 
 **Impact:** In three days, Group 15 _Wakpa Yamni_ is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
 
