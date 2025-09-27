@@ -143,9 +143,8 @@ We recommend that you create and save a plan.md that documents how you expect to
 
 Some data images from expert approach:
 
-[Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
-
-Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitation from NOAA NCEI
+Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitation from 
+[NOAA NCEI](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
 
 #### SNAKE River Drainage Climate Division 2:
 ![Snake River](assets/psdi_wy2_snake.png)
@@ -162,9 +161,10 @@ Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitatio
 ![Wind River](assets/t_wy9_wind.png)
 ![Wind River](assets/prec_wy9_wind.png)
 
-[NCEI Link](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
 
-PDSI for Snake, Green and Wind Rivers:
+
+PDSI for Snake, Green and Wind Rivers from Drought.gov:
+[Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
 
 | ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
 |----------------------------|----------------------------|---------------------------|
