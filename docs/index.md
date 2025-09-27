@@ -145,7 +145,22 @@ Some data images from expert approach:
 
 [Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
 
-![Palmer_PDSI](assets/Palmer_PDSI.png)
+Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitation from NOAA NCEI
+
+#### SNAKE River Drainage Climate Division 2:
+![Snake River](assets/psdi_wy2_snake.png)
+![Snake River](assets/t_wy2_snake.png)
+![Snake River](assets/prec_wy2_snake.png)
+
+#### GREEN and BEAR River Drainage Climate Division 3:
+![Green_Bear](assets/psdi_wy3_geen_bear.png)
+![Green_Bear](assets/t_wy3_green_bear.png)
+![Green_Bear](assets/prec_wy3_green_bear.png)
+
+#### WIND River Climate Division 9:
+![Wind River](assets/psdi_wy9_wind.png)
+![Wind River](assets/t_wy9_wind.png)
+![Wind River](assets/prec_wy9_wind.png)
 
 [NCEI Link](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
 
