@@ -10,13 +10,13 @@ Use this page to keep contact details current so collaborators can reach you qui
 
 | Name | Role | Focus area | Contact | GitHub |
 |------|------|------------|---------|--------|
-| _Ashley Babcock UWyo_ | _Lead / coordination_ | _Project motivation_ | _ababcoc5@uwyo.edu_ | [@_ashbabs14_](https://github.com/ashbabs14) |
-| _Bob Rabin_ ||| _bob.meteor@gmail.com_ | [@_meteoralert_](https://github.com/meteoralert) |
+| [_Ashley Babcock_](https://www.linkedin.com/in/ashley-babcock-7b411b45) | _Lead / coordination_ | _Project motivation_ | _ababcoc5@uwyo.edu_ | [@_ashbabs14_](https://github.com/ashbabs14) |
+| [_Bob Rabin_](https://www.linkedin.com/in/robert-rabin-a640b123) ||| _bob.meteor@gmail.com_ | [@_meteoralert_](https://github.com/meteoralert) |
 | [_Brian Yandell_](https://byandell.github.io) | | | _byandell@wisc.edu_ | [@_byandell_](https://github.com/byandell) |
-| _Darryl Reano_ ||| _darryl.reano@asu.edu_ | [@_darrylreano_](https://github.com/darrylreano) |
-| _Elisha Yellow Thunder_ ||| _eyellowthunder@olc.edu_ | [@_wakinyanzi_](https://github.com/wakinyanzi) |
-| _Jason Tinant_ ||| _jtinant@olc.edu_ | [@_cjtinant_](https://github.com/cjtinant) |
-| _Lilly Jones_ | _Data & modeling_ | _Hydrologic analysis_ | _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
+| [_Darryl Reano_](https://search.asu.edu/profile/3882794) ||| _darryl.reano@asu.edu_ | [@_darrylreano_](https://github.com/darrylreano) |
+| [_Elisha Yellow Thunder_](https://sdepscor.org/graduate-student-spotlight-elisha-yellow-thunder/) ||| _eyellowthunder@olc.edu_ | [@_wakinyanzi_](https://github.com/wakinyanzi) |
+| [_Jason Tinant_](https://www.linkedin.com/in/charles-jason-tinant-1a53b24) ||| _jtinant@olc.edu_ | [@_cjtinant_](https://github.com/cjtinant) |
+| [_Lilly Jones_](https://lijo8146.github.io/) | _Data & modeling_ | _Hydrologic analysis_ | _lilly.jones-1@colorado.edu_ | [@_lijo8146_](https://github.com/lijo8146) |
 
 Roles and focus areas are fluid.
 The project was suggested by Ashley, who provides the inspiration, grounding and motivation.
