@@ -24,6 +24,7 @@
     - [AI Prompt Engeneering](#ai-prompt-engeneering)
     - [Expert Python and R Coding](#expert-python-and-r-coding)
 - [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
+- [Team Members and Working Norms](team.md)
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
@@ -210,6 +211,9 @@ Locations of NWS and RAWS weather stations:
 
 _Photos courtesy of [Jim Sanovia](https://www.linkedin.com/in/sanovia) and [Nate Quarderer](https://nquarder.github.io/), 24-26 September 2025._
 
+## [Team Members and Working Norms](team.md)
+
+---
 ---
 
 ## Following kept but not used
