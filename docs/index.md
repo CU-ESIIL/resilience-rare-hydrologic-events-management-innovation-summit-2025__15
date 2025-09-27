@@ -83,18 +83,31 @@ Across the basins, there are several comparative angles for us to assess: govern
 ### Coding / Tasks
 Two distinct but synergistically interconnected approaches to coding.
 These are complementary and will, over time, inform each other.
-The AI no-code provides a new set of data worth mining in terms of
-(a) code ideas and (b) simulated data.
-This will take some time to understand, much like vast collections of maps
-and, in another setting, genomic data (microarrays and DNA sequences).
+For instance, expert coding by team members will enable us to design targeted AI prompts,
+while AI-generated code and data will suggest novel workflows at scale.
 
-The python/R code is informed by years on expertise on the part of our team
-members, with creative insights about what is important to pursue.
-These insights and deep perspectives
-are impossible (at present, and maybe for a long time) with AI.
-However, we will design future AI prompts based on our expert coding successes.
+The AI no-code approach provides a new set of data worth mining in terms of
+(a) code workflow ideas and (b) simulated data.
+This will take novel, systems-level thinking to understand,
+much like what happened with the 
+arrival of vast collections of remote-sensing maps a half-century ago
+and, in another setting over the past two decades,
+genomic and genetic data (microarrays and DNA sequences)
+on ever large collections of subjects.
+In many ways AI no-code generation will likely raise more questions than answers:
+it requires us to `go slow` to understand what is offered
+rather than to `go fast` and assume (too easy) solutions.
+Still, AI empowers us to raise questions in intuitive ways without
+necessarily getting bogged down in the tedium of coding.
 
-- AI tool from Tyson
+The python/R code approach is informed by years of expertise in earth science and coding
+among our team members, who have creative insights about what is important to pursue.
+The creative interaction among team members will drive innovation
+that bridges across approaches.
+These insights and deep perspectives are impossible (at present, and maybe for a long time)
+to achieve _de novo_ with AI.
+
+- AI tool from [Tyson Swetnam](https://tysonswetnam.com/)
   - no-code as starting point
   - <https://portal.esiil.org> and [AI Verde](https://learning.cyverse.org/ai/verde/)
   - see Tyson results in CyVerse shared folder
@@ -161,8 +174,6 @@ Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitatio
 ![Wind River](assets/t_wy9_wind.png)
 ![Wind River](assets/prec_wy9_wind.png)
 
-
-
 PDSI for Snake, Green and Wind Rivers from Drought.gov:
 [Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
 
@@ -191,6 +202,8 @@ Locations of NWS and RAWS weather stations:
 |----------------------------|----------------------------|
 
 ![](assets/WakpaYamniGoodbye.png) 
+
+_Photos courtesy of [Jim Sanovia](https://www.linkedin.com/in/sanovia) and [Nate Quarderer](https://nquarder.github.io/), 24-26 September 2025._
 
 ---
 
