@@ -81,7 +81,7 @@ Across the basins, there are several comparative angles for us to assess: govern
 ## Day 2 — Data & Methods
 
 ### Coding / Tasks
-Two distinct but synergistically interconnected approaches to coding.
+Wakpa Yamni will pursue two distinct but synergistically interconnected approaches to coding.
 These are complementary and will, over time, inform each other.
 For instance, expert coding by team members will enable us to design targeted AI prompts,
 while AI-generated code and data will suggest novel workflows at scale.
