@@ -1,0 +1,4138 @@
+agency_cd,site_no,station_nm,site_tp_cd,dec_lat_va,dec_long_va,colocated,queryTime,Name,description,timestamp,begin,end,altitudeMode,tessellate,extrude,visibility,drawOrder,icon
+USGS,06222100,"UPPER WIND RIV A CANAL AT HEADWORKS, NR BURRIS, WY",ST-CA,43.4163454,-109.3284733,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06222510,"DRY CREEK CANAL AT HEADGATE, NEAR BURRIS, WY",ST-CA,43.34384577,-109.2909707,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06228510,"RAY CANAL AT HEADWORKS, NEAR FORT WASHAKIE, WY",ST-CA,42.9998333,-108.9327222,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06226000,"WYOMING CANAL NEAR LENORE, WY",ST-CA,43.22912385,-108.8951234,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06227500,"WYOMING CANAL BELOW PILOT DIVERSION, NR MORTON, WY",ST-CA,43.22055556,-108.7838889,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06227000,PILOT CANAL NR MORTON WYO,ST-CA,43.1999581,-108.7340073,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06227596,"JOHNSTOWN DITCH AT HEADWORKS, NEAR KINNEAR, WY",ST-DCH,43.15051377,-108.7287295,FALSE,2025-09-27T01:03:55Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06246500,"OCEAN DRAIN AT OCEAN LAKE OUTLET,NR PAVILLION,WY",ST-DCH,43.19884747,-108.5695566,FALSE,2025-09-27T01:03:59Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06277000,BENCH CANAL NR BURLINGTON WYO,ST-CA,44.3999548,-108.5506744,FALSE,2025-09-27T01:03:59Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06227810,"LEFTHAND DITCH AT HEADWORKS, NEAR RIVERTON, WY",ST-DCH,43.02607066,-108.5206659,FALSE,2025-09-27T01:03:59Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06246800,OCEAN DRAIN NR MIDVALE WY,ST-DCH,43.21134755,-108.4764973,FALSE,2025-09-27T01:03:59Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06247000,OCEAN DRAIN NR PAVILLION WYO,ST-DCH,43.21662529,-108.4673302,FALSE,2025-09-27T01:03:59Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06286490,Big Horn Canal near St. Xavier MT,ST-CA,45.3163485,-107.9184433,FALSE,2025-09-27T01:04:34Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06286500,"Big Horn Canal bl wasteway, nr St. Xavier MT",ST-CA,45.31662649,-107.9006649,FALSE,2025-09-27T01:04:34Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,06293890,Agency Canal Tailwaste near Hardin MT,ST-CA,45.7305341,-107.567306,FALSE,2025-09-27T01:04:40Z,Big Horn,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{A9B7DFD1-AB89-4CC8-B40A-18FDB0DDBF3C}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>14641079.06</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>59250.4</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>MT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>100800</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Big Horn</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>303</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1721521</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>2370903.72576</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>114879365663</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,09231000,"SHEEP CREEK UPPER CANAL NEAR MANILA, UTAH",ST-CA,40.8991204,-109.9348746,FALSE,2025-09-27T01:03:15Z,Upper Green,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{D873BF26-B521-468F-A16A-644BA6F5477E}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>10825891.34</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>43810.87</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>CO,UT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>140401</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>312</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>613772</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>1912341.13455</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>78956206626.399994</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,09231200,"CARTER CREEK CANAL NEAR MANILA, UTAH",ST-CA,40.88550978,-109.9059854,FALSE,2025-09-27T01:03:15Z,Upper Green,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{D873BF26-B521-468F-A16A-644BA6F5477E}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>10825891.34</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>43810.87</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>CO,UT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>140401</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>312</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>613772</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>1912341.13455</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>78956206626.399994</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,09231500,"SHEEP CREEK LOWER CANAL NEAR MANILA, UTAH",ST-CA,40.89023219,-109.8984853,FALSE,2025-09-27T01:03:15Z,Upper Green,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{D873BF26-B521-468F-A16A-644BA6F5477E}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>10825891.34</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>43810.87</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>CO,UT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>140401</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>312</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>613772</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>1912341.13455</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>78956206626.399994</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,09196940,"FREMONT DITCH NEAR PINEDALE, WY",ST-DCH,42.89466605,-109.8534866,FALSE,2025-09-27T01:03:48Z,Upper Green,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{D873BF26-B521-468F-A16A-644BA6F5477E}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>10825891.34</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>43810.87</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>CO,UT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>140401</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>312</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>613772</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>1912341.13455</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>78956206626.399994</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,09196960,"HIGHLAND DITCH NEAR PINEDALE, WY",ST-DCH,42.8988329,-109.8390417,FALSE,2025-09-27T01:03:48Z,Upper Green,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{D873BF26-B521-468F-A16A-644BA6F5477E}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>10825891.34</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>43810.87</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>CO,UT,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>140401</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Upper Green</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>312</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>613772</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>1912341.13455</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>78956206626.399994</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
+USGS,13033000,PALISADES CANAL NR IRWIN ID,ST-CA,43.37880659,-111.2407783,FALSE,2025-09-27T01:03:44Z,Snake Headwaters,"<html xmlns:fo=""http://www.w3.org/1999/XSL/Format"" xmlns:msxsl=""urn:schemas-microsoft-com:xslt"">
+
+<head>
+
+<META http-equiv=""Content-Type"" content=""text/html"">
+
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+
+</head>
+
+<body style=""margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"">
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"">
+
+<tr style=""text-align:center;font-weight:bold;background:#9CBCE2"">
+
+<td>Snake Headwaters</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style=""font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>tnmid</td>
+
+<td>{832DDCF4-2276-499F-B909-C058BCF83E3E}</td>
+
+</tr>
+
+<tr>
+
+<td>loaddate</td>
+
+<td>8/16/2024</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>areaacres</td>
+
+<td>3671996.21</td>
+
+</tr>
+
+<tr>
+
+<td>areasqkm</td>
+
+<td>14860.05</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>states</td>
+
+<td>ID,WY</td>
+
+</tr>
+
+<tr>
+
+<td>huc6</td>
+
+<td>170401</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>name</td>
+
+<td>Snake Headwaters</td>
+
+</tr>
+
+<tr>
+
+<td>MaxSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>MinSimpTol</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>metasource</td>
+
+<td>{511D2AC8-11BA-45FC-AB98-F69D693D4C44}</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcedata</td>
+
+<td>Watershed Boundary Dataset (WBD)</td>
+
+</tr>
+
+<tr>
+
+<td>sourceorig</td>
+
+<td>Natural Resources and Conservation Service and U.S. Geological Survey</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>sourcefeat</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>InPoly_FID</td>
+
+<td>335</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>SimPgnFlag</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>referenceg</td>
+
+<td>1533479</td>
+
+</tr>
+
+<tr bgcolor=""#D4E4F3"">
+
+<td>shape_Leng</td>
+
+<td>1464739.50972</td>
+
+</tr>
+
+<tr>
+
+<td>shape_Area</td>
+
+<td>28199760679.900002</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type=""text/javascript"">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>
+
+",NA,NA,NA,clampToGround,-1,0,-1,NA,NA
