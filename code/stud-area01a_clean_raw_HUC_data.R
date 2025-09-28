@@ -1,5 +1,5 @@
 # ==============================================================================
-# Script Name:     download_daily_flow_data.R
+# Script Name:     stud-area01a_clean_raw_HUC_data.R
 # Author:          Charles Jason Tinant — with ChatGPT 4o
 # Date Created:    April 2025
 # Last Update:     2025-09-24
@@ -8,40 +8,33 @@
 # - 2025-07-28     Update script to use {here} consistently;
 #                  Run {styler}.
 # - 2025-09-24     Ported over from a prior codebase.
+# - 2025-09-28     Update metadata
 #
 # Purpose:         Identify, downloads and combine USGS daily flow data for
 #                  stream gages located in the study area.
 #
-# UPDATE THIS
 # Workflow Summary:
-# 1. Load cleaned site metadata for Great Plains stream gages (ST only)
-# 2. Extract unique site IDs and divide into API-safe batches
-# 3. Query USGS NWIS for peak flow data using `readNWISpeak()`
-# 4. Combine all returned results into a single tidy dataframe
-# 5. Attempt date parsing; retain raw strings for diagnostics
-# 6. Export the combined dataset for further processing
+# 1. Load KML/KMZ file of HUCS.
+# 2. Export results as a GPKG.
 #
 # Input/Data URLs
-# - data/raw/peakflow_gages/usgs_sites_pk_ST_only.csv
-# Site list is derived from `usgs_site_metadata.csv` (script 01c).
+# - data/study_area/project_hucs.kmz
 # Outputs:
-# - data/raw/peakflow_gages/data_pk_all.csv — all retrieved peak flow records
+# - data/study_area/study_area_raw.gpkg
 #
 # Dependencies:
-# - dataRetrieval  Access USGS NWIS data
 # - here           Robust file paths
+# - janitor        Cleans up dirty data
 # - sf             Spatial data (simple features)
 # - tidyverse      Data wrangling & visualization
 #
-# Related Milestone Reports:
-# - milestone_01_download_prepare_covariates.pdf
 # ==============================================================================
 # --- load libraries ---
 suppressPackageStartupMessages({
   library(here)
-  library(tidyverse)
-  library(sf)
   library(janitor)
+  library(sf)
+  library(tidyverse)
 })
 # ------------------------------------------------------------------------------
 # 1. Run Once -- Clean up the nonsense
@@ -83,8 +76,7 @@ hucs <- st_read(gpkg, layer = "project_hucs", quiet = TRUE)
 # - normalize names
 # - drop Z/M to 2D
 # - keep only the columns you want
-hucs_clean <-
-  hucs %>%
+hucs_clean <- hucs %>%
   clean_names() %>%
   select(name, geom) %>%   # keep the useful bits
   st_zm(drop = TRUE, what = "ZM")                   # MULTIPOLYGON (2D)
@@ -101,7 +93,3 @@ hucs_clean <- st_make_valid(hucs_clean)
 #   layer = "project_hucs",
 #   delete_layer = TRUE
 # )
-
-
-
-
