@@ -1,8 +1,8 @@
 # ==============================================================================
-# Script Name:     sw01_get_nwis_sw_sites.R
+# Script Name:     sw01a_get_nwis_sw_sites.R
 # Author:          Charles Jason Tinant — with ChatGPT 5 - thinking
 # Date Created:    2025-07-23
-# Last Update:     2025-09-24
+# Last Update:     2025-09-28
 # Change Log:
 # - 2025-07-23     Initial commit in FFA project.
 # - 2025-09-25     Copied over to wakpala_yamni_kin project (this project).
@@ -15,8 +15,6 @@
 #                  (140401), Wind River (100800), Snake River (170401).
 #
 # Workflow Summary:
-# 0. Make HUC geopackage -- Used a prior script (deleted on accident) to read
-#    HUC data saved in a KML/KMZ format and output as a geopackage.
 # 1. Define paths -- Load study area. The study area is defined by Hydrologic
 #    Unit Codes (HUCs) The three HUC-6 watersheds in the study area: Green River
 #    (140401), Wind River (100800), Snake River (170401).
