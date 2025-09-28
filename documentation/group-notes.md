@@ -44,17 +44,34 @@ Original question:
   - fire: soil moisture -- unsure how to estimate.
  
 ## Goals
-Time frame
+### Time frame
 
 - Short term: during this workshop--getting basics in one day
-- Long term: WG proposal by Nov 21
+- Mid term: WG proposal by Nov 21
+- Long term: understand how these three watersheds evolved over 30 years
 
-Coding / Tasks
+### Coding / Tasks
+Two distinct but interconnected approaches to coding.
 
 - AI tool from Tyson
+  - no-code as starting point
+  - <https://portal.esiil.org> and [AI Verde](https://learning.cyverse.org/ai/verde/)
+  - see Tyson results in CyVerse shared folder
+[esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
 - python or R code individual efforts
+  - experts in team will develop algorithms drawing on their experience
+  - utilize skills and tools from [ESIIL Analytics Library](https://cu-esiil.github.io/analytics-library/)
+and [EarthDataAnalytics Course](https://github.com/byandell-envsys/EarthDataAnalytics)
 
-Team member goals
+### Theory and Practice
+Study real-world interconnect examples of RAD using earth/air/fire/water measurements
+
+- RAD played out in watersheds
+  - **Resist**: Snake River / wealth & power / protect property
+  - **Accept**: Wind River / TEK / live with relatives
+  - **Direct**: Green River / agribusiness / improve yield
+
+### Team member goals
 
 - career advancement
 - win-win multiple use of code or results
@@ -75,9 +92,11 @@ See [Devise](https://devise.uwyo.edu/app)
 
 ## Maps
 
-- [landmapr](https://github.com/byandell-envsys/landmapr) R package
+- [landmapr](https://github.com/byandell-envsys/landmapr) R package for native-land and census data
 - <https://native-land.ca/>
-- [wakpa_yamni_kin](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/data/wakpa_yamni_kin.kml)
+- [wakpa_yamni_kin](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/data/wakpa_yamni_kin.kml) (KML file for ARCInfo)
+
+![](images/ThreeWaters.png)
 
 ## Draft AI Task using Claude and MCP
 **_This comes from Brian and Jason discussion with Tyson about using 

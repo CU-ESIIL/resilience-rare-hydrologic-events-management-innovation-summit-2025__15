@@ -1,70 +1,229 @@
-# Resilience for Rare Hydrologic Events Management
+# Wakpa Yamni: Resilience for Hydrologic Events Management
+<p align=center>Iñupiatun (Iñupiaq language): Piŋasut kurgit
+<p align=center>Ojibwemowin (Ojibwa Language): Niso-ziibiwan
 
-<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
+  ![Wide banner of the study system](assets/Headwaters.png)
 
-<!-- =========================================================
-HERO (Swap hero.jpg, title, strapline, and the three links)
-========================================================= -->
-
-![Wide banner of the study system](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/hero.jpg)
-
-**One sentence on impact:** In three days, Group 15 is prototyping data stories and decision aids that help water managers anticipate rare hydrologic extremes and plan resilient responses.
+**Impact:** In three days, Group 15 _Wakpa Yamni_ is prototyping data stories and decision aids that help water managers study hydrologic extremes and plan resilient responses.
 
 **[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View code](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/code/prism_quicklook.py)**
 
-> **About this site:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
+> **About:** This is a public, in-progress record of a 3-day project at the Innovation Summit.
 
 ---
 
-## How to use this page (for the team)
-- **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
-- **Add images:** upload to `docs/assets/` and reference like `assets/your_file.png`.
-- Keep **text short** and **visuals first**. Think “slide captions,” not essays.
-
----
+- [Day 1 — Define & Explore](#day-1--define--explore)
+  - [Our product](#our-product-)
+  - [Our questions](#our-questions-)
+  - [Hypotheses / intentions](#hypotheses--intentions)
+  - [Why this matters (the “upshot”)](#why-this-matters-the-upshot-)
+  - [Field notes / visuals](#field-notes--visuals)
+  - [Interactive map](#interactive-map)
+- [Day 2 — Data & Methods](#day-2--data--methods)
+  - [Coding / Tasks](#coding--tasks)
+  - [Theory and Practice](#theory-and-practice)
+  - [Data sources we’re exploring](#data-sources-were-exploring-)
+    - [AI Prompt Engeneering](#ai-prompt-engeneering)
+    - [Expert Python and R Coding](#expert-python-and-r-coding)
+- [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
+- [Team Members and Working Norms](team.md)
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
+![initial whiteboard](assets/Group15.png)
+![revised whiteboard](assets/revisedGroup15.png)
+![more notes](assets/Group15Notes.png)
 
 ### Our product 📣
-- Rapid brief highlighting flood preparedness scenarios for Colorado River Basin communities.
-- Map-based story showing infrastructure hotspots sensitive to extreme rainfall.
+This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S. Our goal is to examine how hydrology, governance, and management interact within and across these basins. We are focusing on three main aspects: hydrology; water management, and socioeconomic/legal frameworks. We are intersted in how these aspects interact to influence snowpack, climate dynamics, and streamflow. Data sources include but are not limited to: USGS streamflow and groundwater records, NOAA/NCEI climate data, PRISM and/or Daymet for weather, calculated indices like NDWI, soils and soil moisture, and ESA WorldCover, amongst others.
 
-### Our question(s) 📣
-- Which basins and communities are most exposed to rare, high-intensity precipitation events?
-- How can we blend precipitation frequency analyses with social vulnerability indicators to prioritize mitigation investments?
-- What data storytelling formats communicate risk and resilience actions clearly to decision makers?
+### Our questions 📣
+- How are current river management practices affecting communities and ecosystems?
+- What is the response of river communities and ecosystems to hydrologic and meteorologic events?
+- How do we measure response and resilience?
 
-### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
-- We think that combining NOAA Atlas 14 design storms with updated climate projections will reveal emerging risk hotspots.
-- We intend to test whether infrastructure-critical assets align with high social vulnerability scores.
-- We will know we’re onto something if partners can quickly point to actionable “next step” mitigation actions from our visuals.
+### Hypotheses / intentions
+We envision our datasets aligning with earth, air, fire, and water, and, considering the RAD model,
+have simplified management strategies in our study area to align these three basins as follows:
+Snake River management priority (resist); Green River basin (direct); and Wind River (accept).
+We plan to further develop our conceptual and hydrologic frameworks for these basins to assess hydrologic parameters,
+management strategies, and other factors both within and across these basins.
 
 ### Why this matters (the “upshot”) 📣
-Extreme hydrologic events are becoming less predictable, stressing emergency management capacity. Highlighting the intersection of exposure, vulnerability, and infrastructure sensitivity helps local leaders justify investments in resilient design and community preparedness.
+This is a unique study area.
+The Snake River is a major interstate river with heavy agriculture and large dams, in Idaho, Wyoming, and Washington.
+A standout feature is the Snake River Plain Aquifer, a highly productive yet fragile groundwater system flowing through fractured basalt.
+Water moves quickly through this aquifer and discharges into the Snake River, supporting irrigation, hydropower, and ecosystems.
+Intensive pumping in the eastern plain has lowered water tables though.
+
+### Field notes / visuals
+The Green River, originating in Wyoming, is a major tributary of the Colorado River and goverened by Colorado River Compact allocations.
+The Wind River is smaller but hydrologically important, with local agriculture and tribal water rights shaping governance.
+These differences make a comparative study especially interesting, as each basin has distinct management approaches, power structures, and constraints.
+
+The Snake River Basin is managed by federal agencies (Bureau of Rec and Army Corps), and Idaho state law.
+Water use is dominated by irrigation, hydropower, and aquaculture, with large, wealthy landowners and irrigation districts holding significant influence.
+Issues include balancing hydropower and irrigation, salmon restoration, and groundwater depletion in the aquifer.
+In this basin, economic interests and infrastructure drive management decisions to resist changes.
+
+The Green River Basin is governed by the Colorado River Compact.
+Agriculture is the main water use (alfalfa and cattle), and dominates water demand, but municipal and energy needs are growing.
+Declining snowpack and drought pressures challenge fair water allocation.
+Compact obligations limit flexibility, creating a management narrative dominated by the desire to direct water in ways that might not be supportive of the natural hydrologic regime.
+
+The Wind River Basin is unique because tribal sovereignty is central. The Shoshone and Arapahoe Tribes hold water rights confirmed through the Big Horn adjudication. Governance involves tribal, state, and federal agencies, supporting tribal agriculture, ranching, and cultural uses. Challenges include enforcing water rights against state pushback from Wyoming, funding infrastructure, and cultural values.
+Across the basins, there are several comparative angles for us to assess: governance differences (economic power in Snake, legal compacts in Green, tribal sovereignty in Wind); equity (who benefits and who bears scarcity; and climate adaptation (flexibility versus lock-in; and narratives of power, economic influence, legal obligations, and cultural authority).
+
+![Three Waters](assets/ThreeWaters.png)
+
+#### Interactive map
+[![Study area (OpenStreetMap)](https://www.openstreetmap.org/export/embed.png?bbox=-107.000%2C40.000%2C-111.00%2C46.000&layer=mapnik&marker=43.000%2C-109.500)](https://www.openstreetmap.org/?mlat=43.000&mlon=-109.500#map=12/43.0000/-109.500)
+
+---
+
+## Day 2 — Data & Methods
+
+### Coding / Tasks
+Wakpa Yamni will pursue two distinct but synergistically interconnected approaches to coding.
+These are complementary and will, over time, inform each other.
+For instance, expert coding by team members will enable us to design targeted AI prompts,
+while AI-generated code and data will suggest novel workflows at scale.
+
+The AI no-code approach provides a new set of data worth mining in terms of
+(a) code workflow ideas and (b) simulated data.
+This will take novel, systems-level thinking to understand,
+much like what happened with the 
+arrival of vast collections of remote-sensing maps a half-century ago
+and, in another setting over the past two decades,
+genomic and genetic data (microarrays and DNA sequences)
+on ever large collections of subjects.
+In many ways AI no-code generation will likely raise more questions than answers:
+it requires us to `go slow` to understand what is offered
+rather than to `go fast` and assume (too easy) solutions.
+Still, AI empowers us to raise questions in intuitive ways without
+necessarily getting bogged down in the tedium of coding.
+
+The python/R code approach is informed by years of expertise in earth science and coding
+among our team members, who have creative insights about what is important to pursue.
+The creative interaction among team members will drive innovation
+that bridges across approaches.
+These insights and deep perspectives are impossible (at present, and maybe for a long time)
+to achieve _de novo_ with AI.
+
+- AI tool from [Tyson Swetnam](https://tysonswetnam.com/)
+  - no-code as starting point
+  - <https://portal.esiil.org> and [AI Verde](https://learning.cyverse.org/ai/verde/)
+  - see Tyson results in CyVerse shared folder
+[esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
+- python or R code individual efforts
+  - experts in team will develop algorithms drawing on their experience
+  - utilize skills and tools from [ESIIL Analytics Library](https://cu-esiil.github.io/analytics-library/)
+and [EarthDataAnalytics Course](https://github.com/byandell-envsys/EarthDataAnalytics)
+
+### Theory and Practice
+Study a real-world interconnected system that illustrates the 
+[Resist/Accept/Direct (RAD)](https://www.usgs.gov/programs/climate-adaptation-science-centers/science/resist-accept-direct-rad-framework)
+framework using earth/air/fire/water measurements spanning this three-river environment.
+RAD is, of course, an over-simplification to explain a set of environments
+that have evolved over many time and space scales,
+but it should provide useful insights about putting theory into practice.
+
+- RAD played out in watersheds
+  - **Resist**: Snake River / wealth & power / protect property
+  - **Accept**: Wind River / TEK / live with relatives
+  - **Direct**: Green River / agribusiness / improve yield
+
+### Data sources we’re exploring 📣
+
+#### AI Prompt Engeneering
+_Prompt delivered to Claude for AI rendering:_ We want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries by HUC)
+and the second major reservoir for each river. I want to download
+atmospheric (precipitation and NDVI and PRISM),
+streamflow (USGS water, NDWI),
+land cover (NLCD or ESA World Cover or EMIT)
+and
+soil moisture (Palmer drought stress index or NASA SMAP)
+data.
+
+Download the data for a range of dates from 1994-2024. Store the data in this project folder.
+
+Write python / R scripts to analyze the monthly to yearly variations in vapor pressure deficit and potential evapotranspiration for the sites.
+
+_Create a topographic map with river features including DEM that delineates the three watersheds in their bounded regions._
+
+Create beautiful plots that describe these patterns and highlight the variations between them.
+
+We recommend that you create and save a plan.md that documents how you expect to execute these steps first, before using the MCP tools.
+
+- see Tyson results in CyVerse shared folder
+[esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
+- <https://portal.esiil.org> new CyVerse interface
+- CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
+
+#### Expert Python and R Coding
+
+Some data images from expert approach:
+
+Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitation from 
+[NOAA NCEI](https://www.ncei.noaa.gov/access/monitoring/weekly-palmers/time-series/4802)
+
+#### SNAKE River Drainage Climate Division 2:
+![Snake River](assets/psdi_wy2_snake.png)
+![Snake River](assets/t_wy2_snake.png)
+![Snake River](assets/prec_wy2_snake.png)
+
+#### GREEN and BEAR River Drainage Climate Division 3:
+![Green_Bear](assets/psdi_wy3_geen_bear.png)
+![Green_Bear](assets/t_wy3_green_bear.png)
+![Green_Bear](assets/prec_wy3_green_bear.png)
+
+#### WIND River Climate Division 9:
+![Wind River](assets/psdi_wy9_wind.png)
+![Wind River](assets/t_wy9_wind.png)
+![Wind River](assets/prec_wy9_wind.png)
+
+PDSI for Snake, Green and Wind Rivers from Drought.gov:
+[Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
+
+| ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
+|----------------------------|----------------------------|---------------------------|
+
+[Normalized Difference Water Index (NDWI)](https://www.geographyrealm.com/normalized-difference-water-index-flooding/) for 2024
+
+![NDWI 2024](assets/NDWI2024.png)
+
+NDWI over time
+
+![ee-chart](assets/ee-chart.png)
+
+Locations of NWS and RAWS weather stations:
+[MESOWEST Link](https://mesowest.utah.edu/cgi-bin/droman/mesomap.cgi?state=WY&rawsflag=3)
+
+![](assets/mesowest_wy.png)
+
+## Wakpa Yamni Team in Action!
+
+| ![](assets/WakpaYamniTeam.png) | ![](assets/WakpaYamniTeam2.png) |
+|----------------------------|----------------------------|
+
+| ![](assets/WakpaYamniPresent.png) | ![](assets/WakpaYamniPresent3.png) |
+|----------------------------|----------------------------|
+
+![](assets/WakpaYamniGoodbye.png) 
+
+_Photos courtesy of [Jim Sanovia](https://www.linkedin.com/in/sanovia) and [Nate Quarderer](https://nquarder.github.io/), 24-26 September 2025._
+
+## [Team Members and Working Norms](team.md)
+
+---
+---
+
+## Following kept but not used
 
 ### Inspirations (papers, datasets, tools)
 - Publication: [NOAA Atlas 14 Guidance](https://hdsc.nws.noaa.gov/hdsc/pfds/)
 - Dataset portal: [USGS StreamStats](https://streamstats.usgs.gov/)
 - Tool/tech: [FEMA Hazus flood mitigation library](https://www.fema.gov/flood-maps/tools-resources/hazus)
-
-### Field notes / visuals
-![Whiteboard brainstorm summarizing stakeholder questions](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: Initial framing of community partners, target outcomes, and constraints.*
-
-> **Different perspectives:** Capture alternative framings from emergency managers, hydrologists, and community leaders—they often surface new leverage points.
-
----
-
-## Day 2 — Data & Methods
-*Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
-
-### Data sources we’re exploring 📣
-<!-- EDIT: Link each source; add size/notes if relevant. -->
-- **Source A**
-- Source B — link and 1-line description
 
 - **NOAA Atlas 14 extreme precipitation grids** — baseline design storms to benchmark current planning thresholds.
 
@@ -107,15 +266,6 @@ Extreme hydrologic events are becoming less predictable, stressing emergency man
 ![Animation of cumulative rainfall anomalies during a historic event](assets/change.gif)
 [Raw photo location: change.gif](https://github.com/CU-ESIIL/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/blob/main/docs/assets/change.gif)
 *Figure 2.* One line on what changes across time.
-
-#### Interactive map (iframe)
-<iframe
-  title="Study area (OpenStreetMap)"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-105.35%2C39.90%2C-105.10%2C40.10&layer=mapnik&marker=40.000%2C-105.225"
-  width="100%" height="360" frameborder="0"></iframe>
-<p><a href="https://www.openstreetmap.org/?mlat=40.000&mlon=-105.225#map=12/40.0000/-105.2250">Open full map</a></p>
-
-> If an embed doesn’t load, place the standard link immediately below it.
 
 ---
 
