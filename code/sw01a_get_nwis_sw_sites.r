@@ -23,7 +23,7 @@
 # 2. Prepare HUCs -- remove cruft from prior conversion to 
 # 3. Prepare bounding box -- dataRetrieval can use a bounding box to find and 
 #    download NWIS data.
-# 3. Get sites in bounding box
+# 3. Get sites in bounding box using a script so not to overload the server
 # 4. Filter within study area HUCs and split streams and canals
 # 5. Make a visual check of downloads
 # 6. Export results
