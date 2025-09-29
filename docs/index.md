@@ -23,9 +23,9 @@
 - [Day 2 — Data & Methods](#day-2--data--methods)
     - [Coding / Tasks](#coding--tasks)
     - [Theory and Practice](#theory-and-practice)
-    - [Data sources we’re exploring](#data-sources-were-exploring-)
-        - [AI Prompt Engineering](#ai-prompt-engineering)
-        - [Expert Python and R Coding](#expert-python-and-r-coding)
+- [Day 3 — Progress and Results](#day-3--progress-and-results-)
+    - [AI Prompt Engineering](#ai-prompt-engineering)
+    - [Expert Python and R Coding](#expert-python-and-r-coding)
 - [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
 
 ## Day 1 — Define & Explore
@@ -96,15 +96,6 @@ Bounding box `bbox=(-107,40,-111,46)`
 
 - [Coding / Tasks](#coding--tasks)
 - [Theory and Practice](#theory-and-practice)
-- [Data sources we’re exploring](#data-sources-were-exploring-)
-    - [AI Prompt Engineering](#ai-prompt-engineering)
-    - [Expert Python and R Coding](#expert-python-and-r-coding)
-        - [SNAKE River Drainage Climate Division 2](#snake-river-drainage-climate-division-2)
-        - [GREEN and BEAR River Drainage Climate Division 3:](#green-and-bear-river-drainage-climate-division-3)
-        - [WIND River Climate Division 9:](#wind-river-climate-division-9)
-        - [Palmer Drought Index (PDSI)](#palmer-drought-index-pdsi)
-        - [Normalized Difference Water Index (NDWI)](#normalized-difference-water-index-ndwi)
-        - [Weather Stations](#weather-stations)
 
 ### Coding / Tasks
 Wakpa Yamni will pursue two distinct but synergistically interconnected approaches to coding.
@@ -156,9 +147,19 @@ but it should provide useful insights about putting theory into practice.
   - **Accept**: Wind River / TEK / live with relatives
   - **Direct**: Green River / agribusiness / improve yield
 
-### Data sources we’re exploring 📣
+## Day 3 — Progress and Results 📣
 
-#### AI Prompt Engineering
+- [AI Prompt Engineering](#ai-prompt-engineering)
+    - [CyVerse no-code](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
+- [Expert Python and R Coding](#expert-python-and-r-coding)
+    - [SNAKE River Drainage Climate Division 2](#snake-river-drainage-climate-division-2)
+    - [GREEN and BEAR River Drainage Climate Division 3:](#green-and-bear-river-drainage-climate-division-3)
+    - [WIND River Climate Division 9:](#wind-river-climate-division-9)
+    - [Palmer Drought Index (PDSI)](#palmer-drought-index-pdsi)
+    - [Normalized Difference Water Index (NDWI)](#normalized-difference-water-index-ndwi)
+    - [Weather Stations](#weather-stations)
+
+### AI Prompt Engineering
 _Prompt delivered to Claude for AI rendering:_ We want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries by HUC)
 and the second major reservoir for each river. I want to download
 atmospheric (precipitation and NDVI and PRISM),
@@ -183,7 +184,7 @@ We recommend that you create and save a plan.md that documents how you expect to
 - <https://portal.esiil.org> new CyVerse interface
 - CyVerse [AI Verde](https://learning.cyverse.org/ai/verde/) platform
 
-#### Expert Python and R Coding
+### Expert Python and R Coding
 
 Some data images from expert approach:
 
