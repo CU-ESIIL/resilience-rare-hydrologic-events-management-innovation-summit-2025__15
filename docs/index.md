@@ -96,6 +96,12 @@ Across the basins, there are several comparative angles for us to assess: govern
 - [Data sources we’re exploring](#data-sources-were-exploring-)
     - [AI Prompt Engeneering](#ai-prompt-engeneering)
     - [Expert Python and R Coding](#expert-python-and-r-coding)
+        - [SNAKE River Drainage Climate Division 2](#snake-river-drainage-climate-division-2-)
+        - [GREEN and BEAR River Drainage Climate Division 3:](#GREEN and BEAR River Drainage Climate Division 3:)
+        - [WIND River Climate Division 9:](#wind-river-climate-division-9-)
+        - ]Palmer Drought Index (PDSI)](#palmer-drought-index-pdsi-)
+        - [Normalized Difference Water Index (NDWI)](#normalized-difference-water-index-nwdi-)
+        - [Weather Stations](#weather-stations)
 
 ### Coding / Tasks
 Wakpa Yamni will pursue two distinct but synergistically interconnected approaches to coding.
@@ -196,12 +202,14 @@ Palmer Drought Severity Index (PDSI),Yearly Average Temperature and Precipitatio
 ![Wind River](assets/t_wy9_wind.png)
 ![Wind River](assets/prec_wy9_wind.png)
 
-PDSI for Snake, Green and Wind Rivers from Drought.gov:
+#### Palmer Drought Index (PDSI)
 [Palmer drought index (PDSI)](https://www.drought.gov/data-maps-tools/us-gridded-palmer-drought-severity-index-pdsi-gridmet)
+for Snake, Green and Wind Rivers from Drought.gov:
 
 | ![](assets/Snake_PDSI.png) | ![](assets/Green_PDSI.png) | ![](assets/Wind_PDSI.png) |
 |----------------------------|----------------------------|---------------------------|
 
+#### Normalized Difference Water Index (NDWI)
 [Normalized Difference Water Index (NDWI)](https://www.geographyrealm.com/normalized-difference-water-index-flooding/) for 2024
 
 ![NDWI 2024](assets/NDWI2024.png)
@@ -210,6 +218,7 @@ NDWI over time
 
 ![ee-chart](assets/ee-chart.png)
 
+#### Weather Stations
 Locations of NWS and RAWS weather stations:
 [MESOWEST Link](https://mesowest.utah.edu/cgi-bin/droman/mesomap.cgi?state=WY&rawsflag=3)
 
