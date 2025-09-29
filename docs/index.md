@@ -1,6 +1,6 @@
 # Wakpa Yamni: Resilience for Hydrologic Events Management
-<p align=center>Iñupiatun (Iñupiaq language): Piŋasut kurgit
-<p align=center>Ojibwemowin (Ojibwa Language): Niso-ziibiwan
+<p align=center>Iñupiatun (Iñupiaq language): Piŋasut kurgit</p>
+<p align=center>Ojibwemowin (Ojibwa Language): Niso-ziibiwan</p>
 
   ![Wide banner of the study system](assets/Headwaters.png)
 
@@ -12,27 +12,23 @@
 
 ---
 
-- [Day 1 — Define & Explore](#day-1--define--explore)
-    - [Our product](#our-product-)
-    - [Our questions](#our-questions-)
-    - [Hypotheses / intentions](#hypotheses--intentions)
-    - [Why this matters (the “upshot”)](#why-this-matters-the-upshot-)
-    - [Field notes / visuals](#field-notes--visuals)
-    - [Interactive map](#interactive-map)
-- [Day 2 — Data & Methods](#day-2--data--methods)
-  - [Coding / Tasks](#coding--tasks)
-  - [Theory and Practice](#theory-and-practice)
-  - [Data sources we’re exploring](#data-sources-were-exploring-)
-    - [AI Prompt Engeneering](#ai-prompt-engeneering)
-    - [Expert Python and R Coding](#expert-python-and-r-coding)
-- [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
 - [Team Members and Working Norms](team.md)
+- [Day 1 — Define & Explore](#day-1--define--explore)
+- [Day 2 — Data & Methods](#day-2--data--methods)
+- [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 ![initial whiteboard](assets/Group15.png)
 ![revised whiteboard](assets/revisedGroup15.png)
 ![more notes](assets/Group15Notes.png)
+
+- [Our product](#our-product-)
+- [Our questions](#our-questions-)
+- [Hypotheses / intentions](#hypotheses--intentions)
+- [Why this matters (the “upshot”)](#why-this-matters-the-upshot-)
+- [Field notes / visuals](#field-notes--visuals)
+- [Interactive map](#interactive-map)
 
 ### Our product 📣
 This is a comparative study of the Snake, Green, and Wind River Basins in the western U.S. Our goal is to examine how hydrology, governance, and management interact within and across these basins. We are focusing on three main aspects: hydrology; water management, and socioeconomic/legal frameworks. We are intersted in how these aspects interact to influence snowpack, climate dynamics, and streamflow. Data sources include but are not limited to: USGS streamflow and groundwater records, NOAA/NCEI climate data, PRISM and/or Daymet for weather, calculated indices like NDWI, soils and soil moisture, and ESA WorldCover, amongst others.
@@ -82,6 +78,12 @@ Across the basins, there are several comparative angles for us to assess: govern
 ---
 
 ## Day 2 — Data & Methods
+
+- [Coding / Tasks](#coding--tasks)
+- [Theory and Practice](#theory-and-practice)
+- [Data sources we’re exploring](#data-sources-were-exploring-)
+    - [AI Prompt Engeneering](#ai-prompt-engeneering)
+    - [Expert Python and R Coding](#expert-python-and-r-coding)
 
 ### Coding / Tasks
 Wakpa Yamni will pursue two distinct but synergistically interconnected approaches to coding.
