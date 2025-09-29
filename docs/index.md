@@ -12,7 +12,7 @@
 
 ---
 
-- [Team Members and Working Norms](team.md)
+- [Wakpa Yamni Team Members and Working Norms](team.md)
 - [Day 1 — Define & Explore](#day-1--define--explore)
 - [Day 2 — Data & Methods](#day-2--data--methods)
 - [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
