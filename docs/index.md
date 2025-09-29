@@ -97,10 +97,10 @@ Across the basins, there are several comparative angles for us to assess: govern
     - [AI Prompt Engeneering](#ai-prompt-engeneering)
     - [Expert Python and R Coding](#expert-python-and-r-coding)
         - [SNAKE River Drainage Climate Division 2](#snake-river-drainage-climate-division-2-)
-        - [GREEN and BEAR River Drainage Climate Division 3:](#GREEN and BEAR River Drainage Climate Division 3:)
-        - [WIND River Climate Division 9:](#wind-river-climate-division-9-)
-        - ]Palmer Drought Index (PDSI)](#palmer-drought-index-pdsi-)
-        - [Normalized Difference Water Index (NDWI)](#normalized-difference-water-index-nwdi-)
+        - [GREEN and BEAR River Drainage Climate Division 3:](#green-and-bear-river-drainage-climate-division-3)
+        - [WIND River Climate Division 9:](#wind-river-climate-division-9)
+        - [Palmer Drought Index (PDSI)](#palmer-drought-index-pdsi)
+        - [Normalized Difference Water Index (NDWI)](#normalized-difference-water-index-nwdi)
         - [Weather Stations](#weather-stations)
 
 ### Coding / Tasks
