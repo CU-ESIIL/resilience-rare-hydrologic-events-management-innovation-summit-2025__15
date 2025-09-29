@@ -31,9 +31,8 @@
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
-![initial whiteboard](assets/Group15.png)
-![revised whiteboard](assets/revisedGroup15.png)
-![more notes](assets/Group15Notes.png)
+| ![initial whiteboard](assets/Group15.png) | ![revised whiteboard](assets/revisedGroup15.png) | ![more notes](assets/Group15Notes.png) |
+|----------------------------|----------------------------|---------------------------|
 
 - [Our product](#our-product-)
 - [Our questions](#our-questions-)
