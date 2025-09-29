@@ -24,7 +24,7 @@
     - [Coding / Tasks](#coding--tasks)
     - [Theory and Practice](#theory-and-practice)
     - [Data sources we’re exploring](#data-sources-were-exploring-)
-        - [AI Prompt Engeneering](#ai-prompt-engeneering)
+        - [AI Prompt Engineering](#ai-prompt-engineering)
         - [Expert Python and R Coding](#expert-python-and-r-coding)
 - [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
 
@@ -94,7 +94,7 @@ Across the basins, there are several comparative angles for us to assess: govern
 - [Coding / Tasks](#coding--tasks)
 - [Theory and Practice](#theory-and-practice)
 - [Data sources we’re exploring](#data-sources-were-exploring-)
-    - [AI Prompt Engeneering](#ai-prompt-engeneering)
+    - [AI Prompt Engineering](#ai-prompt-engineering)
     - [Expert Python and R Coding](#expert-python-and-r-coding)
         - [SNAKE River Drainage Climate Division 2](#snake-river-drainage-climate-division-2)
         - [GREEN and BEAR River Drainage Climate Division 3:](#green-and-bear-river-drainage-climate-division-3)
@@ -155,7 +155,7 @@ but it should provide useful insights about putting theory into practice.
 
 ### Data sources we’re exploring 📣
 
-#### AI Prompt Engeneering
+#### AI Prompt Engineering
 _Prompt delivered to Claude for AI rendering:_ We want to create a new scientific project. The goal is to download data from three adjacent rivers in Wyoming: Snake River, Green River and Wind River. These should be bounded by their headwaters (watershed boundaries by HUC)
 and the second major reservoir for each river. I want to download
 atmospheric (precipitation and NDVI and PRISM),
