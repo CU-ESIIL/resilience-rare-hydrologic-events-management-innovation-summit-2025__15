@@ -86,6 +86,10 @@ Across the basins, there are several comparative angles for us to assess: govern
 #### Interactive map
 [![Study area (OpenStreetMap)](https://www.openstreetmap.org/export/embed.png?bbox=-107.000%2C40.000%2C-111.00%2C46.000&layer=mapnik&marker=43.000%2C-109.500)](https://www.openstreetmap.org/?mlat=43.000&mlon=-109.500#map=12/43.0000/-109.500)
 
+Bounding box `bbox=-107%2C40%2C-111%2C46
+
+lon (-107,-111); lat (40,46)
+
 ---
 
 ## Day 2 — Data & Methods
