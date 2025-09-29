@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-# Team — Innovation Summit 2025 Group 15
+# Wakpa Yamni Team — Innovation Summit 2025 Group 15
 
 Use this page to keep contact details current so collaborators can reach you quickly during the sprint.
 
