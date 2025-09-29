@@ -21,29 +21,19 @@
     - [Field notes / visuals](#field-notes--visuals)
     - [Interactive map](#interactive-map)
 - [Day 2 — Data & Methods](#day-2--data--methods)
+    - [Coding / Tasks](#coding--tasks)
+    - [Theory and Practice](#theory-and-practice)
+    - [Data sources we’re exploring](#data-sources-were-exploring-)
+        - [AI Prompt Engeneering](#ai-prompt-engeneering)
+        - [Expert Python and R Coding](#expert-python-and-r-coding)
 - [Wakpa Yamni Team in Action!](#wakpa-yamni-team-in-action)
 
 ## Day 1 — Define & Explore
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
-<details>
-<summary>Original Whiteboard</summary>
-
 ![initial whiteboard](assets/Group15.png)
-
-</details>
-<details>
-<summary>Revised Whiteboard</summary>
-
 ![revised whiteboard](assets/revisedGroup15.png)
-
-</details>
-<details>
-<summary>Group 15 Notes</summary>
-
 ![more notes](assets/Group15Notes.png)
-
-</details>
 
 - [Our product](#our-product-)
 - [Our questions](#our-questions-)
