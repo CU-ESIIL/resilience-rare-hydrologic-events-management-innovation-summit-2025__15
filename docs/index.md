@@ -13,12 +13,12 @@
 ---
 
 - [Day 1 — Define & Explore](#day-1--define--explore)
-  - [Our product](#our-product-)
-  - [Our questions](#our-questions-)
-  - [Hypotheses / intentions](#hypotheses--intentions)
-  - [Why this matters (the “upshot”)](#why-this-matters-the-upshot-)
-  - [Field notes / visuals](#field-notes--visuals)
-  - [Interactive map](#interactive-map)
+    - [Our product](#our-product-)
+    - [Our questions](#our-questions-)
+    - [Hypotheses / intentions](#hypotheses--intentions)
+    - [Why this matters (the “upshot”)](#why-this-matters-the-upshot-)
+    - [Field notes / visuals](#field-notes--visuals)
+    - [Interactive map](#interactive-map)
 - [Day 2 — Data & Methods](#day-2--data--methods)
   - [Coding / Tasks](#coding--tasks)
   - [Theory and Practice](#theory-and-practice)
