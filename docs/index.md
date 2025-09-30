@@ -125,13 +125,18 @@ These insights and deep perspectives are impossible (at present, and maybe for a
 to achieve _de novo_ with AI.
 
 - AI tool from [Tyson Swetnam](https://tysonswetnam.com/)
-  - no-code as starting point
-  - <https://portal.esiil.org> and [AI Verde](https://learning.cyverse.org/ai/verde/)
-  - see Tyson results in CyVerse shared folder
+    - no-code as starting point
+    - <https://portal.esiil.org> and [AI Verde](https://learning.cyverse.org/ai/verde/)
+    - see Tyson results in CyVerse shared folder
 [esiil/summit2025_demo/wyoming_rivers_project](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/summit2025_demo/wyoming_rivers_project)
+    - likely needed improvements to AI workflow
+        - cache database access keys
+        - GitHub integration
+        - data storage
+        - security 
 - python or R code individual efforts
-  - experts in team will develop algorithms drawing on their experience
-  - utilize skills and tools from [ESIIL Analytics Library](https://cu-esiil.github.io/analytics-library/)
+    - experts in team will develop algorithms drawing on their experience
+    - utilize skills and tools from [ESIIL Analytics Library](https://cu-esiil.github.io/analytics-library/)
 and [EarthDataAnalytics Course](https://github.com/byandell-envsys/EarthDataAnalytics)
 
 ### Theory and Practice
